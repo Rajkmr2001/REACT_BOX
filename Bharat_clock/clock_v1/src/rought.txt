@@ -1,0 +1,2 @@
+PS C:\Users\wwwra\Desktop\React_Box\Bharat_clock\clock_v1> npm run dev
+@tag:nextEditSuggestions   ------- change to never.
