@@ -1,5 +1,5 @@
-function TodoItem2() {
-  let todoName = "Go to College";
+function TodoItem1() {
+  let todoName = "Buy Milk";
   let todoDate = "4/10/2023";
 
   return (
@@ -17,4 +17,4 @@ function TodoItem2() {
   );
 }
 
-export default TodoItem2;
+export default TodoItem1;
