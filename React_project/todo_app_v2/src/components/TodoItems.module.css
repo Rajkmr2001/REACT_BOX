@@ -1,0 +1,17 @@
+.itemsContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 8px;
+}
+
+.todo-container {
+  margin: 16px;
+}
+
+.items-container {
+  margin-top: 12px;
+}
+.itemsContainer {
+  text-align: left;
+}
